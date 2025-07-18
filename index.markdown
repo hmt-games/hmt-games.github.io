@@ -11,6 +11,7 @@ thumbnail: "/files/welcome.png"
 
 
 > 📢 News! <br>
+> July 1 --- In-person and online matchmaking sessions will be hosted on July 18 and July 24. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_eqx6QQeMWPEqREO) today! \\
 > May 28 --- We are excited to announce that we received $1000 from IEEE CIS for competition fund! \\
 > May 25 --- Agent submission deadline has been extended to June 15. \\
 > Jan 31 --- We are hosting the 2nd iteration of Dice Adventure Competition at Conference on Games 2025! \\
@@ -58,8 +59,8 @@ The following video provides an overview to the competition tracks, rules, short
 |~~Relase competition registration links~~              |~~March 1, 2025~~       |
 |~~Agent submission portal opens~~                      |~~March 1, 2025~~       |
 |~~CoG auxiliary paper deadline~~                       |~~May 30, 2025~~        |
-|Agent submission portal closes                         |~~May 31, 2025~~ June 15, 2025        |
-|Online matchmaking portal opens                        |~~June 1, 2025~~ July 1, 2025         |
+|~~Agent submission portal closes~~                     |~~May 31, 2025~~ ~~June 15, 2025~~    |
+|~~Online matchmaking portal opens~~                    |~~June 1, 2025~~ ~~July 1, 2025~~     |
 |Online matchmaking portal closes                       |~~June 30, 2025~~ July 30, 2025       |
 |Release competition results and announce winners       |~~July 31, 2025~~ August 10, 2025     |
 |Release competition report and educational materials   |August 20, 2025     |
