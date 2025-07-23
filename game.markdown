@@ -28,8 +28,8 @@ A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) c
 
 Below are the game tutorials that introduce character abilities, game objects, and game rules.
 
-<img src = "/files/38Asset97.png">
-<img src = "/files/38Asset98.png">
+<img src = "/files/tutorial_1.png">
+<img src = "/files/tutorial_2.png">
 
 Detailed information on game rules, character introduction and how to play the game can be accessed in the [Master Rulebook](https://docs.google.com/document/d/1YOSnrPz8EcrrrVsWRTMAMLsKLK9t8jRiTQkXvx9TB5E/edit?usp=sharing).
 

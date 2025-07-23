@@ -52,9 +52,9 @@ Room 204 has a glass door and is opposite to the printing area.
 |--------|--------|---------------|------------------------------|
 |9:00    |9:15    |Check in       |Sign in, pick up name tag and schedule|
 |9:15    |9:30    |Opening/Intro  |Welcome & Overview                 |
-|9:30    |10:00   |Game Play      |Practice session                   |
+|9:30    |11:00   |Game Play      |Practice session                   |
 |10:00   |11:30   |Game Play      |Competition session 1              |
-|11:30   |12:30   |Break          |Lunch (catering)                   |
+|11:00   |12:00   |Break          |Lunch (catering)                   |
 |12:30   |2:00    |Game Play      |Competition session 2              |
 |2:00    |2:30    |Break          |Coffee break                       |
 |2:30    |4:00    |Break          |Competition session 3              |
@@ -63,6 +63,17 @@ Room 204 has a glass door and is opposite to the printing area.
 
 ### July 24 Matchmaking Schedule
 
-Will be released on July 20, 2025.
+|Start   |End     |Session Type   |Activity                      |
+|--------|--------|---------------|------------------------------|
+|9:00    |9:15    |Check in       |Sign in, pick up name tag and schedule|
+|9:15    |9:30    |Opening/Intro  |Welcome & Overview                 |
+|9:30    |10:00   |Game Play      |Practice session                   |
+|10:00   |11:30   |Game Play      |Competition session 1              |
+|11:30   |12:30   |Break          |Lunch (catering)                   |
+|12:30   |2:00    |Game Play      |Competition session 2              |
+|2:00    |2:30    |Break          |Coffee break                       |
+|2:30    |4:00    |Break          |Competition session 3              |
+|2:30    |4:00    |Break          |Competition session 3              |
+|4:00    |5:00    |Closing        |Overall Reflection & Discussion    |
 
 Last updated on July 17, 2025.
